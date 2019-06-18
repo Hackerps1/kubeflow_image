@@ -1,5 +1,19 @@
-katib-ui
-ml-pipeline
-ml-pipeline-persistenceagent
-ml-pipeline-scheduledworkflow
-ml-pipeline-ui
+centraldashboard				centraldashboard:v0.5.0
+jupyter-web-app					jupyter-web-app:v0.5.0
+katib-ui 					katib-ui:v0.1.2-alpha-156-g4ab3dbd
+ml-pipeline					api-server:0.1.16
+ml-pipeline-persistenceagent			persistenceagent:0.1.16
+ml-pipeline-scheduledworkflow			scheduledworkflow:0.1.16
+ml-pipeline-ui					frontend:0.1.16
+ml-pipeline-viewer-controller-deployment	viewer-crd-controller:0.1.16
+notebooks-controller				notebook-controller:v20190401-v0.4.0-rc.1-308-g33618cc9-e3b0c4
+pytorch-operator				pytorch-operator:v0.5.0
+studyjob-controller				studyjob-controller:v0.1.2-alpha-156-g4ab3dbd
+tf-job-dashboard				tf_operator:v0.5.0
+tf-job-operator					tf_operator:v0.5.0
+vizier-core					vizier-core:v0.1.2-alpha-156-g4ab3dbd
+vizier-core-rest				vizier-core-rest:v0.1.2-alpha-156-g4ab3dbd
+vizier-suggestion-bayesianoptimization		suggestion-bayesianoptimization:v0.1.2-alpha-156-g4ab3dbd
+vizier-suggestion-grid				suggestion-grid:v0.1.2-alpha-156-g4ab3dbd
+vizier-suggestion-hyperband			suggestion-hyperband:v0.1.2-alpha-156-g4ab3dbd
+vizier-suggestion-random			suggestion-random:v0.1.2-alpha-156-g4ab3dbd
