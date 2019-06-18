@@ -1,0 +1,5 @@
+katib-ui
+ml-pipeline
+ml-pipeline-persistenceagent
+ml-pipeline-scheduledworkflow
+ml-pipeline-ui
