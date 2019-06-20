@@ -9,6 +9,7 @@ ml-pipeline-viewer-controller-deployment	viewer-crd-controller:0.1.16
 notebooks-controller				notebook-controller:v20190401-v0.4.0-rc.1-308-g33618cc9-e3b0c4
 pytorch-operator				pytorch-operator:v0.5.0
 studyjob-controller				studyjob-controller:v0.1.2-alpha-156-g4ab3dbd
+tensorflow-2.0.0a-notebook-cpu			tensorflow-2.0.0a-notebook-cpu:v0.5.0
 tf-job-dashboard				tf_operator:v0.5.0
 tf-job-operator					tf_operator:v0.5.0
 vizier-core					vizier-core:v0.1.2-alpha-156-g4ab3dbd
